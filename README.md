@@ -16,9 +16,7 @@ conda create --name gd-caf python=3.9
 conda activate gd-caf
 poetry install
 ```
-
 The main packages, which we are using are:
-
 ```shell
 pytorch
 pytorch_lightning
