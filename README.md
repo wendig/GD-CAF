@@ -48,7 +48,7 @@ The datafiles should be put into the corresponding ```data/train/``` and ```data
 
 ### Citation
 ```
-@misc{vatamany2025graph,
+@article{vatamany2025graph,
   title={Graph Dual-stream Convolutional Attention Fusion for precipitation nowcasting},
   author={Vatam{\'a}ny, L{\'o}r{\'a}nd and Mehrkanoon, Siamak},
   journal={Engineering Applications of Artificial Intelligence},
