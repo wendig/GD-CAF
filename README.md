@@ -48,12 +48,13 @@ The datafiles should be put into the corresponding ```data/train/``` and ```data
 
 ### Citation
 ```
-@misc{vatamany2024gdcaf,
-      title={GD-CAF: Graph Dual-stream Convolutional Attention Fusion for Precipitation Nowcasting}, 
-      author={Lorand Vatamany and Siamak Mehrkanoon},
-      year={2024},
-      eprint={2401.07958},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@misc{vatamany2025graph,
+  title={Graph Dual-stream Convolutional Attention Fusion for precipitation nowcasting},
+  author={Vatam{\'a}ny, L{\'o}r{\'a}nd and Mehrkanoon, Siamak},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={141},
+  pages={109788},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
