@@ -1,5 +1,5 @@
 # GD-CAF
-Code for the Paper "Graph Dual-stream Convolutional Attention Fusion for precipitation nowcasting" [Arxiv-link](https://arxiv.org/abs/2401.07958).
+Code for the Paper "Graph Dual-stream Convolutional Attention Fusion for precipitation nowcasting" [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S095219762401947X).
 
 ![GraphInputOutput](images/graph_in_out_white.png)
 
